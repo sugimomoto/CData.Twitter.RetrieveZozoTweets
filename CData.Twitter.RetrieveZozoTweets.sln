@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CData.Twitter.RetrieveZozoTweets", "CData.Twitter.RetrieveZozoTweets\CData.Twitter.RetrieveZozoTweets.csproj", "{113E854E-854F-43ED-B018-391B0ACF9B20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CData.Twitter.RetrieveZozoTweets.Test", "CData.Twitter.RetrieveZozoTweets.Test\CData.Twitter.RetrieveZozoTweets.Test.csproj", "{B435E356-AA6C-4980-B59A-5DD063C243F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{113E854E-854F-43ED-B018-391B0ACF9B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{113E854E-854F-43ED-B018-391B0ACF9B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{113E854E-854F-43ED-B018-391B0ACF9B20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B435E356-AA6C-4980-B59A-5DD063C243F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B435E356-AA6C-4980-B59A-5DD063C243F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B435E356-AA6C-4980-B59A-5DD063C243F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B435E356-AA6C-4980-B59A-5DD063C243F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
